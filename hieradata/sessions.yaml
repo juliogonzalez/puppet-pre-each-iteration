@@ -1,0 +1,5 @@
+sessions:
+  default-session:
+    tm_count: 1
+  testmock-session:
+    tm_count: 2
